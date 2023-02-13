@@ -1,0 +1,5 @@
+org\tjl\hello\aop\PrintProcess.class
+org\tjl\hello\service\ISplitService.class
+org\tjl\hello\service\impl\ISplitServiceImpl.class
+org\tjl\hello\annotation\Print.class
+org\tjl\hello\properties\SplitAutoConfigure.class
